@@ -3,3 +3,4 @@
 -A simple java application related to bank services 
 -Developed using intellij ide
 -jdk version 1.8
+-use some oop concepts 
